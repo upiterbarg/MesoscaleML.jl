@@ -1,0 +1,13 @@
+name = "MesoscaleML"
+uuid = "5c44f7f7-6d30-4436-a831-f7101c43ab52"
+authors = ["Ulyana Piterbarg <ulyana.piterbarg@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
