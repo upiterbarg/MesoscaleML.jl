@@ -6,4 +6,4 @@ makedocs(modules=MesoscaleML,
 
 deploydocs(deps   = Deps.pip("mkdocs", "python-markdown-math"),
     repo = "github.com/upiterbarg/MesoscaleML.jl.git",
-    branch = "gh-pages"
+    branch = "gh-pages")
