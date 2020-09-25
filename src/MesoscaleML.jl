@@ -1,5 +1,13 @@
 module MesoscaleML
+import Random
 
-# Write your package code here.
+export greet
 
-end
+"""
+    greet()
+
+Prints 'Hello World!'. 
+"""
+greet() = print("Hello World!")
+
+end # module
