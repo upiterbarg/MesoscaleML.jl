@@ -11,5 +11,5 @@ makedocs(
 # See "Hosting Documentation" and deploydocs() in the Documenter manual
 # for more information.
 deploydocs(
-    repo = "https://upiterbarg.github.io/MesoscaleML.jl"
+    repo = "https://github.com/upiterbarg/MesoscaleML.jl"
 )
