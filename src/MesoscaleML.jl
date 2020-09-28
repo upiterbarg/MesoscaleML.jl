@@ -1,13 +1,12 @@
 module MesoscaleML
-import Random
 
-export greet
+export func
 
 """
-    greet()
+    func(x)
 
-Prints 'Hello World!'. 
+Returns double the number `x` plus `1`.
 """
-greet() = print("Hello World!")
+func(x) = 2x + 1
 
 end # module
