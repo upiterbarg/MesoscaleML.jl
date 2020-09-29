@@ -4,7 +4,10 @@ using MesoscaleML
 makedocs(
     sitename = "MesoscaleML",
     format = Documenter.HTML(),
-    modules = [MesoscaleML]
+    modules = [MesoscaleML],
+    pages = [
+        "Home" =>  "index.md",
+        "Equations" => "equations.md"]
 )
 
 # Documenter can also automatically deploy documentation to gh-pages.
