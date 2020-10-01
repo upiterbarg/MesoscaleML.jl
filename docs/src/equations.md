@@ -1,9 +1,8 @@
 # Theory
 
-In 1963, [J.R. Herring applied "mean field theory" to convection](https://pubs.giss.nasa.gov/docs/1963/1963_Herring_1.pdf), deriving a relatively simple parameterization which performed well empirically at large Rayleigh numbers (i.e. for turbulent convective flows).
+In 1963, [J.R. Herring applied the "mean field theory" parameterization approach to convection](https://pubs.giss.nasa.gov/docs/1963/1963_Herring_1.pdf), deriving a relatively simple set of equations which performed well empirically at large Rayleigh numbers (i.e. for turbulent convective flows).
 
-We can also apply this theory to baroclinic instability, which is an 
-important driver of large-scale eddy transport in the mid-latitude atmosphere and significant in the ocean.
+We can  apply this parameterization approac to baroclinic instability, which is significant in the ocean and an important driver of large-scale eddy transport in the mid-latitude atmosphere.
 
 
 ### Two-layer Quasi-Geostrophic Equations
