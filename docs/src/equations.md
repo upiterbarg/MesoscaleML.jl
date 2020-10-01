@@ -7,7 +7,7 @@ We can  apply this parameterization approac to baroclinic instability, which is 
 
 ### Two-layer Quasi-Geostrophic Equations
 
-We start with a two-layer fluid with upper density  ``\rho_1``  and lower density  ``\rho_2``. We make the following strong assumptions:
+We start with a two-layer fluid with upper density  ``\rho_1``  and lower density  ``\rho_2``  and make the following strong assumptions:
 
 1. (**Geostrophy**)  The motion of the fluid is nearly geostrophic (i.e. we have a Rossby number `` R_0 \equiv \frac{U}{f_0L} << 1``.
 2. (**Mid-Latitude Beta-Plane Approximation**)  Fractional changes in the Coriolis parameter are small horizontally (i.e. ``f=f_0+\beta y, \ \frac{\beta L}{f_0} << 1``).
