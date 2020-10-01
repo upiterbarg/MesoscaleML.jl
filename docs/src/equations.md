@@ -8,8 +8,8 @@ We can apply this parameterization approach to baroclinic instability (significa
 
 Before we dive into any equations, we provide a glossary of geophysical terms that we will be referencing in the following sections.
 
-| **Symbol**                                                                    | **Meaning**                                                                          |
-|:-----------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
+| **Symbol**                                                                | **Meaning**                                                                          |
+|:-------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
 | ``i=1``                                                                   | the index of the top layer                                                               |
 | ``i=2``                                                                   | the index of the bottom layer                                                            |
 | ``\rho_i``                                                                | the density of the ``i``th layer                                                         |
