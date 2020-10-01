@@ -7,7 +7,7 @@ makedocs(
     modules = [MesoscaleML],
     pages = [
         "Home" =>  "index.md",
-        "Equations" => "equations.md"]
+        "Theory" => "equations.md"]
 )
 
 # Documenter can also automatically deploy documentation to gh-pages.
