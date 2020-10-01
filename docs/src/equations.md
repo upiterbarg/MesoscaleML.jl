@@ -10,8 +10,8 @@ Before we dive into any equations, we provide a glossary of geophysical terms th
 
 | **Symbol**                                                                | **Meaning**                                                                          |
 |:-------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
-| ``i=1``                                                                   | the top layer                                                                        |
-| ``i=2``                                                                   | the bottom layer                                                                     |
+| ``i=1``                                                                   | the index of the top layer                                                           |
+| ``i=2``                                                                   | the index of the bottom layer                                                        |
 | ``\rho_i``                                                                | the density of the ``i``th layer                                                     |
 | ``p_i``                                                                   | the pressure at the ``i``th layer                                                    |
 | ``h_i``                                                                   | the height of the ``i``th layer                                                      |
