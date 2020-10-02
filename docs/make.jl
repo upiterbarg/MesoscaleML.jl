@@ -1,13 +1,19 @@
 using Documenter
 using MesoscaleML
 
+theory = ["Home" => "equations.md",
+    "Geophysical Glossary" => "geoglossary.md",
+    "2-Layer QG" => "2layerqg.md",
+    "Mean Field 2-Layer QG" => "meanfield_2layerqg.md"
+    ]
+
 makedocs(
     sitename = "MesoscaleML",
     format = Documenter.HTML(),
     modules = [MesoscaleML],
     pages = [
         "Home" =>  "index.md",
-        "Theory" => "equations.md"]
+        "Theory" => theory]
 )
 
 # Documenter can also automatically deploy documentation to gh-pages.
