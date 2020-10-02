@@ -1,4 +1,4 @@
-# 2-layer QG
+# 2-Layer QG
 
 We start with a two-layer fluid with upper density and height  ``\rho_1, h_1``  and lower density and height  ``\rho_2, h_2``  and make the following strong assumptions:
 
@@ -7,7 +7,9 @@ We start with a two-layer fluid with upper density and height  ``\rho_1, h_1``  
 3. (**Small Perturbation Approximation**)  Fractional changes in the total depth are small (i.e. ``\frac{|\nu|}{\mathcal{H}_0} << 1``), where ``\mathcal{H}_0`` is the average depth and ``\Delta H`` is a typical departure from this average.
 
 
+
 Let ``g' = g(\rho_2-\rho_1)/\rho_2`` represent the reduced gravity. We have:
+
 
 ```math
 \begin{aligned}

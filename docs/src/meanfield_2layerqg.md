@@ -1,6 +1,10 @@
 # Mean-Field Approximation for 2-Layer QG
 
-Now, we separate out the zonal average and the fluctuations of the potential vorticity and quasi-potential vorticity. Let  ``F=f_0^2/g'H``  and  ``Q_y=\beta-U_{yy}\pm F(U_1-U_2)``.
+Now, we separate out the zonal average and the fluctuations of the potential vorticity and quasi-potential vorticity.
+
+ 
+ Let  ``F=f_0^2/g'H``  and  ``Q_y=\beta-U_{yy}\pm F(U_1-U_2)``.
+
 
 ```math
 \begin{aligned}
@@ -11,10 +15,13 @@ Now, we separate out the zonal average and the fluctuations of the potential vor
 \end{aligned}
 ```
 
+
 The **mean-field approximation** simplifies the fluctuating `` q'`` equation as: 
+
 
 ```math
 \frac{\partial}{\partial t} q' + \frac{\partial}{\partial x} U q' + Q_y v' = -\mu q' 
 ```
+
 
 The zonal average ``q`` equation remains unchanged. 

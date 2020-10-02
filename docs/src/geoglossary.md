@@ -1,6 +1,6 @@
 # Geophysical Glossary
 
-Before we present any equations, we provide a glossary of geophysical terms that we will be referencing in the following sections.
+Before we present any equations, we provide a glossary of terms and notation that we will be using in the following sections.
 
 | **Symbol**                                                                | **Meaning**                                                                              |
 |:-------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|
