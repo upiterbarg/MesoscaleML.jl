@@ -6,4 +6,4 @@ We use the mean-field approximation to 2-layer QG model as the initial base of o
 
 **Documentation is incoming!**
 
-To find a written development of the theory/background for this project, please navigate to the **"Theory"** tab.
+To find a written development of the theory/background for this project, please navigate to the next page.
