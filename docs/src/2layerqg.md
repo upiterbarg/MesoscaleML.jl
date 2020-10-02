@@ -2,9 +2,20 @@
 
 We start with a two-layer fluid with upper density and height  ``\rho_1, h_1``  and lower density and height  ``\rho_2, h_2``  and make the following strong assumptions:
 
-1. (**Geostrophy**)  The motion of the fluid is nearly geostrophic (i.e. we have a Rossby number `` R_0 \equiv \frac{U}{f_0L} << 1``.
-2. (**Mid-Latitude Beta-Plane Approximation**)  Fractional changes in the Coriolis parameter are small horizontally (i.e. ``f=f_0+\beta y, \ \frac{\beta L}{f_0} << 1``).
-3. (**Small Perturbation Approximation**)  Fractional changes in the total depth are small (i.e. ``\frac{|\nu|}{\mathcal{H}_0} << 1``), where ``\mathcal{H}_0`` is the average depth and ``\Delta H`` is a typical departure from this average.
+1. (**Geostrophy**)  The motion of the fluid is nearly geostrophic.
+```math
+ (\text{Rossby number}) \ \ \ R_0 \equiv \frac{U}{f_0L} << 1
+```
+2. (**Mid-Latitude Beta-Plane Approximation**)  Fractional changes in the Coriolis parameter are small horizontally.
+```math
+f=f_0+\beta y, \ \frac{\beta L}{f_0} << 1
+```
+
+3. (**Small Perturbation Approximation**)  Fractional changes in the total depth are small,
+```math
+\frac{|\nu|}{\mathcal{H}_0} << 1
+```
+where ``\mathcal{H}_0`` is the average depth and ``\Delta H`` is a typical departure from this average.
 
 
 

@@ -2,7 +2,7 @@ using Documenter
 using MesoscaleML
 
 theory = ["Introduction" => "equations.md",
-    "Geophysical Glossary" => "geoglossary.md",
+    "Glossary" => "geoglossary.md",
     "2-Layer QG" => "2layerqg.md",
     "Mean Field 2-Layer QG" => "meanfield_2layerqg.md"
     ]

@@ -1,4 +1,4 @@
-# Geophysical Glossary
+# Glossary
 
 Before we present any equations, we provide a glossary of terms and notation that we will be using in the following sections.
 
